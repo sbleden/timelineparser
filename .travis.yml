@@ -1,2 +1,2 @@
 language: java
-script: clean package -f ./timelineparser/pom.xml
+script: mvn clean package -f ./timelineparser/pom.xml
